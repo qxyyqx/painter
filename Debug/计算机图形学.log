@@ -1,0 +1,18 @@
+﻿  计算机图形学View.cpp
+计算机图形学View.cpp(267): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+计算机图形学View.cpp(276): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+计算机图形学View.cpp(278): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+计算机图形学View.cpp(376): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+计算机图形学View.cpp(420): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+计算机图形学View.cpp(434): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+计算机图形学View.cpp(530): warning C4091: “typedef ”: 没有声明变量时忽略“CMyView::edge_scan::edge”的左侧
+计算机图形学View.cpp(536): warning C4305: “=”: 从“double”到“float”截断
+计算机图形学View.cpp(550): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+计算机图形学View.cpp(551): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+计算机图形学View.cpp(557): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+计算机图形学View.cpp(558): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+计算机图形学View.cpp(561): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+计算机图形学View.cpp(570): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+计算机图形学View.cpp(531): warning C4101: “temp”: 未引用的局部变量
+计算机图形学View.cpp(580): warning C4101: “j”: 未引用的局部变量
+  计算机图形学.vcxproj -> C:\Users\Administrator\Desktop\Download_temp\计算机图形学程序源代码\.\Debug\计算机图形学.exe
